@@ -1,0 +1,92 @@
+nav li{
+    width: 200px;
+    float: left;
+}
+
+nav li a:hover{
+    background-color:  #e6b800;
+    font-weight: 900;
+}
+
+#banniere
+{
+ background-image: url("./image/banniere.webp")
+
+}
+
+th , td {
+  text-align: center;
+}
+
+.card{
+    text-align: center;
+    background-color: grey;
+    color: black;
+    border: 1px solid #444;
+}
+.nav-pills .nav-link.active{
+    background-color:  #e6b800;
+    color:black;
+}
+body{
+    background-color: darkgrey;
+}
+.nav-link{
+    color: black;
+}
+.nav-pills .nav-link{
+    color: black;
+}
+.table {
+    background-color: grey;
+    color: black;
+    border-color: black;
+}
+
+.table th{
+    background-color : darkgrey;
+    color : black;
+}
+.table td {
+    background-color: grey;
+    color: black;
+}
+.btn.btn-primary{
+    background-color:  #e6b800;
+    color:black;
+    border-color: black;
+}
+.dropdown-menu {
+    background-color: grey;
+}
+.dropdown-item {
+    color: black;
+}
+
+.dropdown-item:hover,
+.dropdown-item:focus {
+    background-color: #f1c40f;
+    color: black;
+}
+h1{
+       color:  #e6b800;
+       text-align: center;
+}
+#ban{
+       color:  #e6b800;
+}
+h3{
+    color:     #e6b800;
+
+}
+.row{
+     text-align: center;
+}
+.card img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#centre{
+     vertical-align: middle;
+}
